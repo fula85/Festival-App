@@ -12,6 +12,7 @@
 		79B5DFB3220453610053D54E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 79B5DFB1220453610053D54E /* Main.storyboard */; };
 		79B5DFB52204536D0053D54E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 79B5DFB42204536D0053D54E /* Assets.xcassets */; };
 		79B5DFB82204536D0053D54E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 79B5DFB62204536D0053D54E /* LaunchScreen.storyboard */; };
+		79B5DFC1220453820053D54E /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 79B5DFC0220453820053D54E /* MapKit.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		79B5DFB42204536D0053D54E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		79B5DFB72204536D0053D54E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		79B5DFB92204536D0053D54E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		79B5DFC0220453820053D54E /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,6 +31,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				79B5DFC1220453820053D54E /* MapKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -40,6 +43,7 @@
 			children = (
 				79B5DFAC220453610053D54E /* Festival App */,
 				79B5DFAB220453610053D54E /* Products */,
+				79B5DFBF220453820053D54E /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -62,6 +66,14 @@
 				79B5DFB92204536D0053D54E /* Info.plist */,
 			);
 			path = "Festival App";
+			sourceTree = "<group>";
+		};
+		79B5DFBF220453820053D54E /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				79B5DFC0220453820053D54E /* MapKit.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -96,6 +108,11 @@
 				TargetAttributes = {
 					79B5DFA9220453610053D54E = {
 						CreatedOnToolsVersion = 10.1;
+						SystemCapabilities = {
+							com.apple.Maps.iOS = {
+								enabled = 1;
+							};
+						};
 					};
 				};
 			};
@@ -291,7 +308,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "be.ehb.Festival-App";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -308,7 +325,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "be.ehb.Festival-App";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
