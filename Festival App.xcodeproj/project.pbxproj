@@ -13,6 +13,24 @@
 		79B5DFB52204536D0053D54E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 79B5DFB42204536D0053D54E /* Assets.xcassets */; };
 		79B5DFB82204536D0053D54E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 79B5DFB62204536D0053D54E /* LaunchScreen.storyboard */; };
 		79B5DFC1220453820053D54E /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 79B5DFC0220453820053D54E /* MapKit.framework */; };
+		79B5DFD5220476980053D54E /* snackresto.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79B5DFC4220476980053D54E /* snackresto.jpg */; };
+		79B5DFD6220476980053D54E /* indianresto.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79B5DFC5220476980053D54E /* indianresto.jpg */; };
+		79B5DFD7220476980053D54E /* launchscreen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79B5DFC6220476980053D54E /* launchscreen.jpg */; };
+		79B5DFD8220476980053D54E /* swasbuckle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79B5DFC7220476980053D54E /* swasbuckle.jpg */; };
+		79B5DFD9220476980053D54E /* wine.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79B5DFC8220476980053D54E /* wine.jpg */; };
+		79B5DFDA220476980053D54E /* festiscreen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79B5DFC9220476980053D54E /* festiscreen.jpg */; };
+		79B5DFDB220476980053D54E /* bar1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79B5DFCA220476980053D54E /* bar1.jpg */; };
+		79B5DFDC220476980053D54E /* bar3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79B5DFCB220476980053D54E /* bar3.jpg */; };
+		79B5DFDD220476980053D54E /* bar2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79B5DFCC220476980053D54E /* bar2.jpg */; };
+		79B5DFDE220476980053D54E /* artist.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79B5DFCD220476980053D54E /* artist.jpg */; };
+		79B5DFDF220476980053D54E /* sushiresto.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79B5DFCE220476980053D54E /* sushiresto.jpg */; };
+		79B5DFE0220476980053D54E /* bar4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79B5DFCF220476980053D54E /* bar4.jpg */; };
+		79B5DFE1220476980053D54E /* italianresto.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79B5DFD0220476980053D54E /* italianresto.jpg */; };
+		79B5DFE2220476980053D54E /* admirable.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79B5DFD1220476980053D54E /* admirable.jpg */; };
+		79B5DFE3220476980053D54E /* artistreel.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79B5DFD2220476980053D54E /* artistreel.jpg */; };
+		79B5DFE4220476980053D54E /* festivallaunch.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79B5DFD3220476980053D54E /* festivallaunch.jpg */; };
+		79B5DFE5220476980053D54E /* winedegu.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79B5DFD4220476980053D54E /* winedegu.jpg */; };
+		79B5DFE922048C270053D54E /* MusicTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79B5DFE822048C270053D54E /* MusicTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +42,24 @@
 		79B5DFB72204536D0053D54E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		79B5DFB92204536D0053D54E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		79B5DFC0220453820053D54E /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		79B5DFC4220476980053D54E /* snackresto.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = snackresto.jpg; sourceTree = "<group>"; };
+		79B5DFC5220476980053D54E /* indianresto.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = indianresto.jpg; sourceTree = "<group>"; };
+		79B5DFC6220476980053D54E /* launchscreen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = launchscreen.jpg; sourceTree = "<group>"; };
+		79B5DFC7220476980053D54E /* swasbuckle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = swasbuckle.jpg; sourceTree = "<group>"; };
+		79B5DFC8220476980053D54E /* wine.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wine.jpg; sourceTree = "<group>"; };
+		79B5DFC9220476980053D54E /* festiscreen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = festiscreen.jpg; sourceTree = "<group>"; };
+		79B5DFCA220476980053D54E /* bar1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bar1.jpg; sourceTree = "<group>"; };
+		79B5DFCB220476980053D54E /* bar3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bar3.jpg; sourceTree = "<group>"; };
+		79B5DFCC220476980053D54E /* bar2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bar2.jpg; sourceTree = "<group>"; };
+		79B5DFCD220476980053D54E /* artist.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = artist.jpg; sourceTree = "<group>"; };
+		79B5DFCE220476980053D54E /* sushiresto.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sushiresto.jpg; sourceTree = "<group>"; };
+		79B5DFCF220476980053D54E /* bar4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bar4.jpg; sourceTree = "<group>"; };
+		79B5DFD0220476980053D54E /* italianresto.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = italianresto.jpg; sourceTree = "<group>"; };
+		79B5DFD1220476980053D54E /* admirable.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = admirable.jpg; sourceTree = "<group>"; };
+		79B5DFD2220476980053D54E /* artistreel.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = artistreel.jpg; sourceTree = "<group>"; };
+		79B5DFD3220476980053D54E /* festivallaunch.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = festivallaunch.jpg; sourceTree = "<group>"; };
+		79B5DFD4220476980053D54E /* winedegu.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = winedegu.jpg; sourceTree = "<group>"; };
+		79B5DFE822048C270053D54E /* MusicTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusicTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,8 +94,10 @@
 		79B5DFAC220453610053D54E /* Festival App */ = {
 			isa = PBXGroup;
 			children = (
+				79B5DFE7220489A50053D54E /* controller */,
+				79B5DFE62204899D0053D54E /* model */,
+				79B5DFC22204752D0053D54E /* images */,
 				79B5DFAD220453610053D54E /* AppDelegate.swift */,
-				79B5DFAF220453610053D54E /* ViewController.swift */,
 				79B5DFB1220453610053D54E /* Main.storyboard */,
 				79B5DFB42204536D0053D54E /* Assets.xcassets */,
 				79B5DFB62204536D0053D54E /* LaunchScreen.storyboard */,
@@ -74,6 +112,55 @@
 				79B5DFC0220453820053D54E /* MapKit.framework */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		79B5DFC22204752D0053D54E /* images */ = {
+			isa = PBXGroup;
+			children = (
+				79B5DFC3220476980053D54E /* images */,
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
+		79B5DFC3220476980053D54E /* images */ = {
+			isa = PBXGroup;
+			children = (
+				79B5DFC4220476980053D54E /* snackresto.jpg */,
+				79B5DFC5220476980053D54E /* indianresto.jpg */,
+				79B5DFC6220476980053D54E /* launchscreen.jpg */,
+				79B5DFC7220476980053D54E /* swasbuckle.jpg */,
+				79B5DFC8220476980053D54E /* wine.jpg */,
+				79B5DFC9220476980053D54E /* festiscreen.jpg */,
+				79B5DFCA220476980053D54E /* bar1.jpg */,
+				79B5DFCB220476980053D54E /* bar3.jpg */,
+				79B5DFCC220476980053D54E /* bar2.jpg */,
+				79B5DFCD220476980053D54E /* artist.jpg */,
+				79B5DFCE220476980053D54E /* sushiresto.jpg */,
+				79B5DFCF220476980053D54E /* bar4.jpg */,
+				79B5DFD0220476980053D54E /* italianresto.jpg */,
+				79B5DFD1220476980053D54E /* admirable.jpg */,
+				79B5DFD2220476980053D54E /* artistreel.jpg */,
+				79B5DFD3220476980053D54E /* festivallaunch.jpg */,
+				79B5DFD4220476980053D54E /* winedegu.jpg */,
+			);
+			name = images;
+			sourceTree = "<group>";
+		};
+		79B5DFE62204899D0053D54E /* model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = model;
+			path = "New Group";
+			sourceTree = "<group>";
+		};
+		79B5DFE7220489A50053D54E /* controller */ = {
+			isa = PBXGroup;
+			children = (
+				79B5DFAF220453610053D54E /* ViewController.swift */,
+				79B5DFE822048C270053D54E /* MusicTableViewCell.swift */,
+			);
+			path = controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -139,8 +226,25 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				79B5DFE2220476980053D54E /* admirable.jpg in Resources */,
+				79B5DFD8220476980053D54E /* swasbuckle.jpg in Resources */,
+				79B5DFE0220476980053D54E /* bar4.jpg in Resources */,
+				79B5DFE5220476980053D54E /* winedegu.jpg in Resources */,
+				79B5DFDB220476980053D54E /* bar1.jpg in Resources */,
+				79B5DFDE220476980053D54E /* artist.jpg in Resources */,
+				79B5DFDC220476980053D54E /* bar3.jpg in Resources */,
 				79B5DFB82204536D0053D54E /* LaunchScreen.storyboard in Resources */,
+				79B5DFD9220476980053D54E /* wine.jpg in Resources */,
+				79B5DFE3220476980053D54E /* artistreel.jpg in Resources */,
 				79B5DFB52204536D0053D54E /* Assets.xcassets in Resources */,
+				79B5DFD6220476980053D54E /* indianresto.jpg in Resources */,
+				79B5DFDF220476980053D54E /* sushiresto.jpg in Resources */,
+				79B5DFD5220476980053D54E /* snackresto.jpg in Resources */,
+				79B5DFE4220476980053D54E /* festivallaunch.jpg in Resources */,
+				79B5DFD7220476980053D54E /* launchscreen.jpg in Resources */,
+				79B5DFDA220476980053D54E /* festiscreen.jpg in Resources */,
+				79B5DFDD220476980053D54E /* bar2.jpg in Resources */,
+				79B5DFE1220476980053D54E /* italianresto.jpg in Resources */,
 				79B5DFB3220453610053D54E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -154,6 +258,7 @@
 			files = (
 				79B5DFB0220453610053D54E /* ViewController.swift in Sources */,
 				79B5DFAE220453610053D54E /* AppDelegate.swift in Sources */,
+				79B5DFE922048C270053D54E /* MusicTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
