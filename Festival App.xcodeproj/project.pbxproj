@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		79AC2DCC2208897C004673B4 /* Artist.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79AC2DCB2208897C004673B4 /* Artist.swift */; };
 		79B5DFAE220453610053D54E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79B5DFAD220453610053D54E /* AppDelegate.swift */; };
 		79B5DFB0220453610053D54E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79B5DFAF220453610053D54E /* ViewController.swift */; };
 		79B5DFB3220453610053D54E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 79B5DFB1220453610053D54E /* Main.storyboard */; };
@@ -33,6 +34,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		79AC2DCB2208897C004673B4 /* Artist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Artist.swift; sourceTree = "<group>"; };
 		79B5DFAA220453610053D54E /* Festival App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Festival App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		79B5DFAD220453610053D54E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		79B5DFAF220453610053D54E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -147,6 +149,7 @@
 		79B5DFE62204899D0053D54E /* model */ = {
 			isa = PBXGroup;
 			children = (
+				79AC2DCB2208897C004673B4 /* Artist.swift */,
 			);
 			name = model;
 			path = "New Group";
@@ -253,6 +256,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				79AC2DCC2208897C004673B4 /* Artist.swift in Sources */,
 				79B5DFB0220453610053D54E /* ViewController.swift in Sources */,
 				79B5DFAE220453610053D54E /* AppDelegate.swift in Sources */,
 			);
