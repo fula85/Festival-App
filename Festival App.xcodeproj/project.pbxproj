@@ -30,7 +30,6 @@
 		79B5DFE3220476980053D54E /* artistreel.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79B5DFD2220476980053D54E /* artistreel.jpg */; };
 		79B5DFE4220476980053D54E /* festivallaunch.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79B5DFD3220476980053D54E /* festivallaunch.jpg */; };
 		79B5DFE5220476980053D54E /* winedegu.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79B5DFD4220476980053D54E /* winedegu.jpg */; };
-		79B5DFE922048C270053D54E /* MusicTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79B5DFE822048C270053D54E /* MusicTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -59,7 +58,6 @@
 		79B5DFD2220476980053D54E /* artistreel.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = artistreel.jpg; sourceTree = "<group>"; };
 		79B5DFD3220476980053D54E /* festivallaunch.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = festivallaunch.jpg; sourceTree = "<group>"; };
 		79B5DFD4220476980053D54E /* winedegu.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = winedegu.jpg; sourceTree = "<group>"; };
-		79B5DFE822048C270053D54E /* MusicTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusicTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -158,7 +156,6 @@
 			isa = PBXGroup;
 			children = (
 				79B5DFAF220453610053D54E /* ViewController.swift */,
-				79B5DFE822048C270053D54E /* MusicTableViewCell.swift */,
 			);
 			path = controller;
 			sourceTree = "<group>";
@@ -258,7 +255,6 @@
 			files = (
 				79B5DFB0220453610053D54E /* ViewController.swift in Sources */,
 				79B5DFAE220453610053D54E /* AppDelegate.swift in Sources */,
-				79B5DFE922048C270053D54E /* MusicTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
