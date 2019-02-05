@@ -11,7 +11,7 @@ import UIKit
 class ViewController: UIViewController, UITableViewDataSource {
     let data: [[String]] = [["Aerosmith", "Bob Marley", "2pac"], ["Italian", "Japanese","Indian", "Snacks"], ["Wine Bar", "Cider Bar", "Champagne Bar", "Beer Bar"], ["Wine Degustation"]]
     let titles:[String] = ["Muziek Artiesten", "Restaurants", "Bars", "Degustation"]
-    let subs: [[String]] = [["Saturday 2:00PM", "Saturday 7:00PM", "Sunday 11:00AM"], ["Open 09 - 5pm", "Open 1pm - 11pm", "Open 4pm - 12pm", "Open 2pm - 11pm"], ["Open 09 - 5pm", "Open 1pm - 11pm", "Open 4pm - 12pm", "Open 2pm - 11pm"], ["Register anytime"]]
+    let subs: [[String]] = [["Saturday 2:00PM", "Saturday 7:00PM", "Sunday 11:00AM"], ["Open 09am - 5pm", "Open 1pm - 11pm", "Open 4pm - 12pm", "Open 2pm - 11pm"], ["Open 09am - 5pm", "Open 1pm - 11pm", "Open 4pm - 12pm", "Open 2pm - 11pm"], ["Register anytime"]]
     let images: [[String]] = [["artist.jpg", "admirable.jpg","swasbuckle.jpg"], ["italianresto.jpg", "sushiresto.jpg","indianresto.jpg", "snackresto.jpg"], ["bar1.jpg", "bar2.jpg", "bar3.jpg", "bar4.jpg"], ["winedegu.jpg"]]
     
     

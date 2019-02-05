@@ -8,9 +8,16 @@
 
 import Foundation
 
-//class Artist {
+class Artist {
     
-    //var naam: String
-    //var omschrijving: String
+    var naam: String
+    var omschrijving: String
+    var video: String
+
+init(naam:String, omschrijving: String, video: String) {
+    self.naam = naam
+    self.omschrijving = omschrijving
+    self.video = video
+}
     
-//}
+}

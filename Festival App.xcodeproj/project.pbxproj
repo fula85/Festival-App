@@ -7,6 +7,36 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		79A81848220982B800A01A7F /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79A81847220982B800A01A7F /* DetailViewController.swift */; };
+		79A8186922098D2400A01A7F /* snackresto.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79A8184B22098D2400A01A7F /* snackresto.jpg */; };
+		79A8186A22098D2400A01A7F /* indianresto.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79A8184C22098D2400A01A7F /* indianresto.jpg */; };
+		79A8186B22098D2400A01A7F /* launchscreen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79A8184D22098D2400A01A7F /* launchscreen.jpg */; };
+		79A8186C22098D2400A01A7F /* swasbuckle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79A8184E22098D2400A01A7F /* swasbuckle.jpg */; };
+		79A8186D22098D2400A01A7F /* wine.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79A8184F22098D2400A01A7F /* wine.jpg */; };
+		79A8186E22098D2400A01A7F /* festiscreen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79A8185022098D2400A01A7F /* festiscreen.jpg */; };
+		79A8186F22098D2400A01A7F /* bar1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79A8185122098D2400A01A7F /* bar1.jpg */; };
+		79A8187022098D2400A01A7F /* bar3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79A8185222098D2400A01A7F /* bar3.jpg */; };
+		79A8187122098D2400A01A7F /* bar2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79A8185322098D2400A01A7F /* bar2.jpg */; };
+		79A8187222098D2400A01A7F /* artist.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79A8185422098D2400A01A7F /* artist.jpg */; };
+		79A8187322098D2400A01A7F /* sushiresto.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79A8185522098D2400A01A7F /* sushiresto.jpg */; };
+		79A8187422098D2400A01A7F /* bar4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79A8185622098D2400A01A7F /* bar4.jpg */; };
+		79A8187522098D2400A01A7F /* italianresto.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79A8185722098D2400A01A7F /* italianresto.jpg */; };
+		79A8187622098D2400A01A7F /* admirable.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79A8185822098D2400A01A7F /* admirable.jpg */; };
+		79A8187722098D2400A01A7F /* artistreel.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79A8185922098D2400A01A7F /* artistreel.jpg */; };
+		79A8187822098D2400A01A7F /* festivallaunch.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79A8185A22098D2400A01A7F /* festivallaunch.jpg */; };
+		79A8187922098D2400A01A7F /* nieuwpoort_ganzenpoot.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79A8185B22098D2400A01A7F /* nieuwpoort_ganzenpoot.jpg */; };
+		79A8187A22098D2400A01A7F /* winedegu.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79A8185C22098D2400A01A7F /* winedegu.jpg */; };
+		79A8187B22098D2400A01A7F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 79A8185D22098D2400A01A7F /* Assets.xcassets */; };
+		79A8187C22098D2400A01A7F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 79A8185E22098D2400A01A7F /* LaunchScreen.storyboard */; };
+		79A8187D22098D2400A01A7F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 79A8186022098D2400A01A7F /* Main.storyboard */; };
+		79A8187E22098D2400A01A7F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79A8186322098D2400A01A7F /* ViewController.swift */; };
+		79A8187F22098D2400A01A7F /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79A8186422098D2400A01A7F /* DetailViewController.swift */; };
+		79A8188022098D2400A01A7F /* Artist.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79A8186622098D2400A01A7F /* Artist.swift */; };
+		79A8188122098D2400A01A7F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79A8186722098D2400A01A7F /* AppDelegate.swift */; };
+		79A8188222098D2400A01A7F /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 79A8186822098D2400A01A7F /* Info.plist */; };
+		79A8188422098D5200A01A7F /* nieuwpoort_ganzenpoot.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79A8188322098D5200A01A7F /* nieuwpoort_ganzenpoot.jpg */; };
+		79A8188622098E1800A01A7F /* nieuwpoort1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79A8188522098E1800A01A7F /* nieuwpoort1.jpg */; };
+		79A8188822098F9E00A01A7F /* beach.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79A8188722098F9E00A01A7F /* beach.jpg */; };
 		79AC2DCC2208897C004673B4 /* Artist.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79AC2DCB2208897C004673B4 /* Artist.swift */; };
 		79B5DFAE220453610053D54E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79B5DFAD220453610053D54E /* AppDelegate.swift */; };
 		79B5DFB0220453610053D54E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79B5DFAF220453610053D54E /* ViewController.swift */; };
@@ -34,6 +64,36 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		79A81847220982B800A01A7F /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		79A8184B22098D2400A01A7F /* snackresto.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = snackresto.jpg; sourceTree = "<group>"; };
+		79A8184C22098D2400A01A7F /* indianresto.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = indianresto.jpg; sourceTree = "<group>"; };
+		79A8184D22098D2400A01A7F /* launchscreen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = launchscreen.jpg; sourceTree = "<group>"; };
+		79A8184E22098D2400A01A7F /* swasbuckle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = swasbuckle.jpg; sourceTree = "<group>"; };
+		79A8184F22098D2400A01A7F /* wine.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wine.jpg; sourceTree = "<group>"; };
+		79A8185022098D2400A01A7F /* festiscreen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = festiscreen.jpg; sourceTree = "<group>"; };
+		79A8185122098D2400A01A7F /* bar1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bar1.jpg; sourceTree = "<group>"; };
+		79A8185222098D2400A01A7F /* bar3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bar3.jpg; sourceTree = "<group>"; };
+		79A8185322098D2400A01A7F /* bar2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bar2.jpg; sourceTree = "<group>"; };
+		79A8185422098D2400A01A7F /* artist.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = artist.jpg; sourceTree = "<group>"; };
+		79A8185522098D2400A01A7F /* sushiresto.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sushiresto.jpg; sourceTree = "<group>"; };
+		79A8185622098D2400A01A7F /* bar4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bar4.jpg; sourceTree = "<group>"; };
+		79A8185722098D2400A01A7F /* italianresto.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = italianresto.jpg; sourceTree = "<group>"; };
+		79A8185822098D2400A01A7F /* admirable.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = admirable.jpg; sourceTree = "<group>"; };
+		79A8185922098D2400A01A7F /* artistreel.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = artistreel.jpg; sourceTree = "<group>"; };
+		79A8185A22098D2400A01A7F /* festivallaunch.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = festivallaunch.jpg; sourceTree = "<group>"; };
+		79A8185B22098D2400A01A7F /* nieuwpoort_ganzenpoot.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nieuwpoort_ganzenpoot.jpg; sourceTree = "<group>"; };
+		79A8185C22098D2400A01A7F /* winedegu.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = winedegu.jpg; sourceTree = "<group>"; };
+		79A8185D22098D2400A01A7F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		79A8185F22098D2400A01A7F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		79A8186122098D2400A01A7F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		79A8186322098D2400A01A7F /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		79A8186422098D2400A01A7F /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		79A8186622098D2400A01A7F /* Artist.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Artist.swift; sourceTree = "<group>"; };
+		79A8186722098D2400A01A7F /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		79A8186822098D2400A01A7F /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		79A8188322098D5200A01A7F /* nieuwpoort_ganzenpoot.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = nieuwpoort_ganzenpoot.jpg; path = ../../../../nieuwpoort_ganzenpoot.jpg; sourceTree = "<group>"; };
+		79A8188522098E1800A01A7F /* nieuwpoort1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = nieuwpoort1.jpg; path = ../../../../nieuwpoort1.jpg; sourceTree = "<group>"; };
+		79A8188722098F9E00A01A7F /* beach.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = beach.jpg; path = ../../../../beach.jpg; sourceTree = "<group>"; };
 		79AC2DCB2208897C004673B4 /* Artist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Artist.swift; sourceTree = "<group>"; };
 		79B5DFAA220453610053D54E /* Festival App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Festival App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		79B5DFAD220453610053D54E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -74,6 +134,63 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		79A8184922098D2400A01A7F /* Festival App */ = {
+			isa = PBXGroup;
+			children = (
+				79A8184A22098D2400A01A7F /* images */,
+				79A8185D22098D2400A01A7F /* Assets.xcassets */,
+				79A8185E22098D2400A01A7F /* LaunchScreen.storyboard */,
+				79A8186022098D2400A01A7F /* Main.storyboard */,
+				79A8186222098D2400A01A7F /* controller */,
+				79A8186522098D2400A01A7F /* New Group */,
+				79A8186722098D2400A01A7F /* AppDelegate.swift */,
+				79A8186822098D2400A01A7F /* Info.plist */,
+			);
+			name = "Festival App";
+			sourceTree = "<group>";
+		};
+		79A8184A22098D2400A01A7F /* images */ = {
+			isa = PBXGroup;
+			children = (
+				79A8184B22098D2400A01A7F /* snackresto.jpg */,
+				79A8184C22098D2400A01A7F /* indianresto.jpg */,
+				79A8184D22098D2400A01A7F /* launchscreen.jpg */,
+				79A8184E22098D2400A01A7F /* swasbuckle.jpg */,
+				79A8184F22098D2400A01A7F /* wine.jpg */,
+				79A8185022098D2400A01A7F /* festiscreen.jpg */,
+				79A8185122098D2400A01A7F /* bar1.jpg */,
+				79A8185222098D2400A01A7F /* bar3.jpg */,
+				79A8185322098D2400A01A7F /* bar2.jpg */,
+				79A8185422098D2400A01A7F /* artist.jpg */,
+				79A8185522098D2400A01A7F /* sushiresto.jpg */,
+				79A8185622098D2400A01A7F /* bar4.jpg */,
+				79A8185722098D2400A01A7F /* italianresto.jpg */,
+				79A8185822098D2400A01A7F /* admirable.jpg */,
+				79A8185922098D2400A01A7F /* artistreel.jpg */,
+				79A8185A22098D2400A01A7F /* festivallaunch.jpg */,
+				79A8185B22098D2400A01A7F /* nieuwpoort_ganzenpoot.jpg */,
+				79A8185C22098D2400A01A7F /* winedegu.jpg */,
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
+		79A8186222098D2400A01A7F /* controller */ = {
+			isa = PBXGroup;
+			children = (
+				79A8186322098D2400A01A7F /* ViewController.swift */,
+				79A8186422098D2400A01A7F /* DetailViewController.swift */,
+			);
+			path = controller;
+			sourceTree = "<group>";
+		};
+		79A8186522098D2400A01A7F /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+				79A8186622098D2400A01A7F /* Artist.swift */,
+			);
+			path = "New Group";
+			sourceTree = "<group>";
+		};
 		79B5DFA1220453610053D54E = {
 			isa = PBXGroup;
 			children = (
@@ -99,6 +216,7 @@
 				79B5DFC22204752D0053D54E /* images */,
 				79B5DFAD220453610053D54E /* AppDelegate.swift */,
 				79B5DFB1220453610053D54E /* Main.storyboard */,
+				79A8184922098D2400A01A7F /* Festival App */,
 				79B5DFB42204536D0053D54E /* Assets.xcassets */,
 				79B5DFB62204536D0053D54E /* LaunchScreen.storyboard */,
 				79B5DFB92204536D0053D54E /* Info.plist */,
@@ -142,6 +260,9 @@
 				79B5DFD2220476980053D54E /* artistreel.jpg */,
 				79B5DFD3220476980053D54E /* festivallaunch.jpg */,
 				79B5DFD4220476980053D54E /* winedegu.jpg */,
+				79A8188522098E1800A01A7F /* nieuwpoort1.jpg */,
+				79A8188322098D5200A01A7F /* nieuwpoort_ganzenpoot.jpg */,
+				79A8188722098F9E00A01A7F /* beach.jpg */,
 			);
 			name = images;
 			sourceTree = "<group>";
@@ -159,6 +280,7 @@
 			isa = PBXGroup;
 			children = (
 				79B5DFAF220453610053D54E /* ViewController.swift */,
+				79A81847220982B800A01A7F /* DetailViewController.swift */,
 			);
 			path = controller;
 			sourceTree = "<group>";
@@ -226,26 +348,51 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				79A8187422098D2400A01A7F /* bar4.jpg in Resources */,
+				79A8186A22098D2400A01A7F /* indianresto.jpg in Resources */,
+				79A8187D22098D2400A01A7F /* Main.storyboard in Resources */,
+				79A8186C22098D2400A01A7F /* swasbuckle.jpg in Resources */,
 				79B5DFE2220476980053D54E /* admirable.jpg in Resources */,
+				79A8187022098D2400A01A7F /* bar3.jpg in Resources */,
 				79B5DFD8220476980053D54E /* swasbuckle.jpg in Resources */,
 				79B5DFE0220476980053D54E /* bar4.jpg in Resources */,
+				79A8186B22098D2400A01A7F /* launchscreen.jpg in Resources */,
+				79A8187322098D2400A01A7F /* sushiresto.jpg in Resources */,
 				79B5DFE5220476980053D54E /* winedegu.jpg in Resources */,
 				79B5DFDB220476980053D54E /* bar1.jpg in Resources */,
 				79B5DFDE220476980053D54E /* artist.jpg in Resources */,
+				79A8187222098D2400A01A7F /* artist.jpg in Resources */,
 				79B5DFDC220476980053D54E /* bar3.jpg in Resources */,
 				79B5DFB82204536D0053D54E /* LaunchScreen.storyboard in Resources */,
+				79A8186D22098D2400A01A7F /* wine.jpg in Resources */,
+				79A8188422098D5200A01A7F /* nieuwpoort_ganzenpoot.jpg in Resources */,
 				79B5DFD9220476980053D54E /* wine.jpg in Resources */,
+				79A8187622098D2400A01A7F /* admirable.jpg in Resources */,
 				79B5DFE3220476980053D54E /* artistreel.jpg in Resources */,
+				79A8188222098D2400A01A7F /* Info.plist in Resources */,
+				79A8187B22098D2400A01A7F /* Assets.xcassets in Resources */,
 				79B5DFB52204536D0053D54E /* Assets.xcassets in Resources */,
 				79B5DFD6220476980053D54E /* indianresto.jpg in Resources */,
 				79B5DFDF220476980053D54E /* sushiresto.jpg in Resources */,
+				79A8187722098D2400A01A7F /* artistreel.jpg in Resources */,
 				79B5DFD5220476980053D54E /* snackresto.jpg in Resources */,
 				79B5DFE4220476980053D54E /* festivallaunch.jpg in Resources */,
+				79A8187522098D2400A01A7F /* italianresto.jpg in Resources */,
+				79A8187822098D2400A01A7F /* festivallaunch.jpg in Resources */,
+				79A8187A22098D2400A01A7F /* winedegu.jpg in Resources */,
+				79A8186E22098D2400A01A7F /* festiscreen.jpg in Resources */,
+				79A8187122098D2400A01A7F /* bar2.jpg in Resources */,
+				79A8186922098D2400A01A7F /* snackresto.jpg in Resources */,
+				79A8187922098D2400A01A7F /* nieuwpoort_ganzenpoot.jpg in Resources */,
+				79A8188822098F9E00A01A7F /* beach.jpg in Resources */,
+				79A8187C22098D2400A01A7F /* LaunchScreen.storyboard in Resources */,
 				79B5DFD7220476980053D54E /* launchscreen.jpg in Resources */,
+				79A8186F22098D2400A01A7F /* bar1.jpg in Resources */,
 				79B5DFDA220476980053D54E /* festiscreen.jpg in Resources */,
 				79B5DFDD220476980053D54E /* bar2.jpg in Resources */,
 				79B5DFE1220476980053D54E /* italianresto.jpg in Resources */,
 				79B5DFB3220453610053D54E /* Main.storyboard in Resources */,
+				79A8188622098E1800A01A7F /* nieuwpoort1.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,15 +403,36 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				79A8188122098D2400A01A7F /* AppDelegate.swift in Sources */,
+				79A8187E22098D2400A01A7F /* ViewController.swift in Sources */,
 				79AC2DCC2208897C004673B4 /* Artist.swift in Sources */,
 				79B5DFB0220453610053D54E /* ViewController.swift in Sources */,
+				79A8187F22098D2400A01A7F /* DetailViewController.swift in Sources */,
 				79B5DFAE220453610053D54E /* AppDelegate.swift in Sources */,
+				79A81848220982B800A01A7F /* DetailViewController.swift in Sources */,
+				79A8188022098D2400A01A7F /* Artist.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
+		79A8185E22098D2400A01A7F /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				79A8185F22098D2400A01A7F /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		79A8186022098D2400A01A7F /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				79A8186122098D2400A01A7F /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
 		79B5DFB1220453610053D54E /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
