@@ -1,5 +1,5 @@
 //
-//  DetailViewController.swift
+//  FormViewController.swift
 //  Festival App
 //
 //  Created by mobapp06 on 07/02/2019.
@@ -8,21 +8,16 @@
 
 import UIKit
 
-class DetailViewController: UIViewController {
-
-    @IBOutlet weak var lblnaam: UILabel!
-    @IBOutlet weak var afbeeldingart: UIImageView!
-    @IBOutlet weak var lblText: UITextView!
-    var sendArtist : Artist?
+class FormViewController: UIViewController {
     
+    
+    
+    
+
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        if let artist = sendArtist{
-            lblnaam.text = artist.naam
-            afbeeldingart.image = UIImage.init(named: artist.afbeeldingart)
-            lblText.text = artist.omschrijving
-        }
+        // Do any additional setup after loading the view.
     }
     
 

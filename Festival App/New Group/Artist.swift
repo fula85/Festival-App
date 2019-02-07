@@ -12,12 +12,12 @@ class Artist {
     
     var naam: String
     var omschrijving: String
-    var video: String
+    var afbeeldingart: String
 
-init(naam:String, omschrijving: String, video: String) {
+init(naam:String, omschrijving: String, afbeeldingart: String) {
     self.naam = naam
     self.omschrijving = omschrijving
-    self.video = video
+    self.afbeeldingart = afbeeldingart
 }
     
 }

@@ -1,5 +1,5 @@
 //
-//  DetailViewController.swift
+//  MapViewController.swift
 //  Festival App
 //
 //  Created by mobapp06 on 07/02/2019.
@@ -7,22 +7,16 @@
 //
 
 import UIKit
+import MapKit
+class MapViewController: UIViewController {
 
-class DetailViewController: UIViewController {
-
-    @IBOutlet weak var lblnaam: UILabel!
-    @IBOutlet weak var afbeeldingart: UIImageView!
-    @IBOutlet weak var lblText: UITextView!
-    var sendArtist : Artist?
+    @IBOutlet weak var mapView: MKMapView!
+    
     
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        if let artist = sendArtist{
-            lblnaam.text = artist.naam
-            afbeeldingart.image = UIImage.init(named: artist.afbeeldingart)
-            lblText.text = artist.omschrijving
-        }
+        // Do any additional setup after loading the view.
     }
     
 
